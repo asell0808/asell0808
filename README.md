@@ -1,4 +1,4 @@
-### Hi there, I'm Anthony - aka [asell0808][website] 👋
+### Hi there, I'm Anthony - aka [asell0808] 👋
 
 ## I'm a Husband, Software Engineer, Active Duty Air Force, and Mentor!!
 
