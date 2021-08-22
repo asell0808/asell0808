@@ -1,14 +1,12 @@
 ### Hi there, I'm Anthony - aka [asell0808][website] 👋
 
-[![Website](https://github.com/asell0808)](https://github.com/asell0808)
-
 ## I'm a Husband, Software Engineer, Active Duty Air Froce, and Mentor!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+
+- 🌱 I’m currently learning React, Angular, and Node.
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 2021 Goals: Contribute more to Open Source projects, and sharpen my skills.
+- ⚡ Fun fact: I love to lift weights, write and play piano.
 
 ### Connect with me:
 
