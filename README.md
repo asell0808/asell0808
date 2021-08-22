@@ -2,6 +2,8 @@
 
 ## I'm a Husband, Software Engineer, Active Duty Air Force, and Mentor!!
 
+Visit my <a href="www.linkedin.com/in/anthony-sellers-027b69111">LinkedIn!</a>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asell0808)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asell0808)](https://github.com/anuraghazra/github-readme-stats)
