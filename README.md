@@ -11,4 +11,4 @@ Visit my <a href="www.linkedin.com/in/anthony-sellers-027b69111">LinkedIn!</a>
 - 🌱 I’m currently learning React, Angular, and Node.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2021 Goals: Contribute more to Open Source projects, and sharpen my skills.
-- ⚡ Fun fact: I love to lift weights, write and play piano.
+- ⚡ Fun fact: I love to write, watch movies, lift weights and play piano.
