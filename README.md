@@ -1,6 +1,6 @@
 ### Hi there, I'm Anthony - aka [asell0808][website] 👋
 
-## I'm a Husband, Software Engineer, Active Duty Air Froce, and Mentor!!
+## I'm a Husband, Software Engineer, Active Duty Air Force, and Mentor!!
 
 
 - 🌱 I’m currently learning React, Angular, and Node.
