@@ -1,6 +1,6 @@
 # Hi there, I'm Anthony - aka [asell0808] 👋
 
-## I am a Husband, Software Engineer, Active Duty Air Force, and Mentor!!
+## I am a Husband, Father, Software Engineer, Active Duty Air Force, and Mentor!!
 
 <!-- ## Visit my <a href="www.linkedin.com/in/anthony-sellers-027b69111">LinkedIn!</a> -->
 
